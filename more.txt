@@ -1,4 +1,4 @@
 file directory / version
-1 / 简体中文版
-2 / English
-3 / espanol
+1              / 简体中文版
+2              / English
+3              / espanol
